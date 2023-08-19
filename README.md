@@ -1,4 +1,6 @@
-## Vercel adres: https://block-react-1.vercel.app/
+## Vercel adres: ""
+npm i -g vercel
+vercel => config it
 
 ## Available Scripts
 
