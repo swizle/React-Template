@@ -1,4 +1,3 @@
-/* eslint-disable default-param-last */
 import {
   TEST_ACTION,
 } from './actions';
